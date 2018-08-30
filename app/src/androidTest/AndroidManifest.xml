@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rdtoledo.testing">
+
+    <application>
+        <activity android:name="com.example.rdtoledo.testing.HeyActivity"/>
+    </application>
+</manifest>
